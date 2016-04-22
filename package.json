@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel-let": "babel-node let.js",
     "babel-const": "babel-node const.js",
-    "babel-destruct": "babel-node destructuring.js"
+    "babel-destruct": "babel-node destructuring.js",
+    "babel-tstring": "babel-node template_string.js",
+    "babel-func": "babel-node functions.js"
   },
   "repository": {
     "type": "git",
