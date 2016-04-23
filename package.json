@@ -9,7 +9,8 @@
     "babel-const": "babel-node const.js",
     "babel-destruct": "babel-node destructuring.js",
     "babel-tstring": "babel-node template_string.js",
-    "babel-func": "babel-node functions.js"
+    "babel-func": "babel-node functions.js",
+    "babel-obj": "babel-node objects.js"
   },
   "repository": {
     "type": "git",
